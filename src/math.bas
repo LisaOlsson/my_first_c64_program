@@ -1,6 +1,6 @@
 10 rem This is a recreation of my first ever useful program.
 20 rem I wrote this in 1985, when I was seven years old.
-30rem This is recreated from memory, and using English instead of Swedish.
+30 rem This is recreated from memory, and using English instead of Swedish.
 40 rem I am trying to recreate it as accurately as possible,
 50 rem without any modern coding practice.
 
